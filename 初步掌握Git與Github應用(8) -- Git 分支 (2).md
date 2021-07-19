@@ -1,4 +1,4 @@
-# 初步掌握Git與Github應用(8) -- Git 分支 (2)
+# 初步掌握Git與Github應用(5) -- Git 分支 (2)
 
 ###### tags: `初步掌握Git與Github應用`
 
