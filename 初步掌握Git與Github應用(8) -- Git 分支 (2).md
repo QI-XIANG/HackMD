@@ -52,6 +52,8 @@
 ---
 ## :triangular_flag_on_post: 實作 Git Merge -- Fast Forward
 
+### :notebook: 使用的指令
+
 | 指令         | 功能說明               |
 | ----------------- |:----------------------- |
 | `git merge 分支名稱`       | 將目前所在分支和特定分支合併|
