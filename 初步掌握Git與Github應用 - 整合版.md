@@ -2,7 +2,7 @@
 
 View the book with "<i class="fa fa-book fa-fw"></i> Book Mode".
 
-內容分類
+筆記內容分類
 ---
 
 - [Git、Github 筆記傳送門](/c14ARoh7TbmvgvkDnhqEMQ)
@@ -42,3 +42,10 @@ Git 常用指令
 ###### tags: `初步掌握Git與Github應用`
 
 ###### 2021/07/26 by Qi Xiang
+
+<meta name="description" content="環境建置、基本指令、Git 基礎操作、Github 基礎應用、Git 分支、Git、Github 團隊協作、Git 常用指令">
+
+<meta property="og:title" content="初步掌握Git與Github應用 - 整合版" />
+<meta property="og:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgI0JoCGxYZzlUveaOeE_wmExwCCub_QUP_7vRxTsxFjuad6rHQBCutmV7d7o_gJPW7AlzDICjCYDkwQ&usqp=CAU" />
+<meta property="og:description" content="環境建置、基本指令、Git 基礎操作、Github 基礎應用、Git 分支、Git、Github 團隊協作、Git 常用指令環境建置、基本指令、Git 基礎操作、Github 基礎應用、Git 分支、Git、Github 團隊協作、Git 常用指令" />
+
