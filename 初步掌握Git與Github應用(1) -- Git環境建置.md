@@ -1,5 +1,5 @@
 # 初步掌握Git與Github應用(1) -- Git環境建置
-
+###### tags: `初步掌握Git與Github應用`
 > 希望藉由這份筆記，讓正在學習這類知識的你/妳，能夠得到些許幫助。:smile: 
 
 :::info
@@ -70,5 +70,5 @@
 
 [ToC]
 
-### Recently modified: 2021/07/11 by Qi Xiang
+###### Last updated 2021/07/11 by Qi Xiang
 
