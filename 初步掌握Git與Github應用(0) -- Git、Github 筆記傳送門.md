@@ -25,7 +25,7 @@
 |    Git 分支 (3)  | Git Tag 標籤、Git Stash 暫存檔案 |
 |    Git、Github 團隊協作 (1)  | 推送分支到遠端數據庫 (Github)、在 Github 上放置靜態網頁|
 |    Git、Github 團隊協作 (2) | 下載遠端數據庫、解決 git pull 帶來的衝突、git pull 的實質意義 |
-|    Git 基礎操作(3)  | 實際模擬小型團隊協作 |
+|    Git、Github 團隊協作 (3)  | 實際模擬小型團隊協作 |
 | Git 常用指令大全 | 實務上常用的 git 指令 |
 
 ---
